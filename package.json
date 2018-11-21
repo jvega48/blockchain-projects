@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/jvega48/blockchain-projects/issues"
   },
-  "homepage": "https://github.com/jvega48/blockchain-projects#readme"
+  "homepage": "https://github.com/jvega48/blockchain-projects#readme",
+  "dependencies": {
+    "truffle": "^4.1.14"
+  }
 }
